@@ -50,6 +50,7 @@ The easiest options are Vercel or Netlify — both offer free hosting and deploy
 2. Click **Add New → Project**, select this repo.
 3. Framework preset: **Vite**. Leave build settings as default ('npm run build', output dir 'dist').
 4. Click **Deploy**. You'll get a live URL like "tic-tac-toe-game-4f5pc8mwh-pixee.vercel.app" .
+5. Live URL: https://tic-tac-toe-game-4f5pc8mwh-pixee.vercel.app/
 
 
 ## Project structure
