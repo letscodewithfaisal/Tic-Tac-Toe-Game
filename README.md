@@ -48,14 +48,9 @@ The easiest options are Vercel or Netlify — both offer free hosting and deploy
 ### Vercel
 1. Go to https://vercel.com and sign in with GitHub.
 2. Click **Add New → Project**, select this repo.
-3. Framework preset: **Vite**. Leave build settings as default (`npm run build`, output dir `dist`).
-4. Click **Deploy**. You'll get a live URL like `https://tic-tac-toe-yourname.vercel.app`.
+3. Framework preset: **Vite**. Leave build settings as default ('npm run build', output dir 'dist').
+4. Click **Deploy**. You'll get a live URL like "tic-tac-toe-game-4f5pc8mwh-pixee.vercel.app" .
 
-### Netlify
-1. Go to https://app.netlify.com and sign in with GitHub.
-2. Click **Add new site → Import an existing project**, select this repo.
-3. Build command: `npm run build`, publish directory: `dist`.
-4. Click **Deploy site**. You'll get a live URL like `https://tic-tac-toe-yourname.netlify.app`.
 
 ## Project structure
 
